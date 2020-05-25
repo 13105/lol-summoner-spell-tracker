@@ -1,2 +1,0 @@
-k = "Papão"
-print(k)
