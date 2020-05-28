@@ -266,8 +266,6 @@ class InputWindow(Frame):
 
 
     def close_window(self):
-
-        #TODO: FECHA O PROGRAMA APROPRIADAMENTE PARANDO OS THREADS
         self.root_window.quit()
 
 
